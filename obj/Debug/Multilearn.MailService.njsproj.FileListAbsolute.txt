@@ -1,0 +1,3 @@
+C:\multilearn\Multilearn.MailService\obj\Debug\Multilearn.MailService.njsprojAssemblyReference.cache
+C:\multilearn\Multilearn.MailService\obj\Debug\Multilearn.MailService.njsproj.CoreCompileInputs.cache
+C:\multilearn\Multilearn.MailService\bin\Microsoft.NodejsTools.WebRole.dll
