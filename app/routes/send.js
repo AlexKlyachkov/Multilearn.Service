@@ -13,8 +13,8 @@ router.post('/', function (req, res, next) {
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
-            user: 'wahoo@wahoo.one', // generated ethereal user
-            pass: 'JamesBond=007', // generated ethereal password
+            user: 'wahoo@wahoo.one', 
+            pass: 'JamesBond=007', 
         },
     });
 
