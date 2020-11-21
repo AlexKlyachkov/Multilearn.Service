@@ -11,7 +11,7 @@ router.post('/', function (req, res, next) {
     var transporter = nodemailer.createTransport({
         host: "send.one.com",
         port: 587,
-        secure: false, // true for 465, false for other
+        secure: false, // true for 465, false for other ports
         auth: {
             user: 'wahoo@wahoo.one', 
             pass: 'JamesBond=007', 
